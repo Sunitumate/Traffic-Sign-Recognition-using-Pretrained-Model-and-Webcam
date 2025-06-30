@@ -1,0 +1,16 @@
+
+
+OpenCV – for image processing and contour detection
+
+NumPy – for numerical operations
+
+pyttsx3 – for converting text to speech
+
+Tkinter – for GUI interface
+
+Pillow (PIL) – for image display in the GUI
+
+Threading – to handle video capture and speech concurrently
+
+Queue – for thread-safe speech message handling
+
